@@ -1,6 +1,6 @@
 {
   "name": "@castletech/pwa-module-related-products",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Related Products Extension for PWA Studio.",
   "main": "./index.js",
   "scripts": {
